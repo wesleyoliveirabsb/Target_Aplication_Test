@@ -1,6 +1,7 @@
 #include <iostream>
 #include <stdio.h>
 
+using namespace std;
 
 float mediaValoresVetor(float vet[], int tam){
     float soma=0;
